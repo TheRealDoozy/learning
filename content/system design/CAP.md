@@ -1,9 +1,7 @@
 ---
-title: "CAP"
+title: "CAP Theorm"
 date: 2022-01-08T17:11:07-06:00
 ---
-# CAP Theorm
-
 
 ## C - Consistency
 
