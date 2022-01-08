@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>System Design on My New Hugo Site</title>
-    <link>https://therealdoozy.github.io/learnings/system-design/</link>
+    <link>https://therealdoozy.github.io/learning/system-design/</link>
     <description>Recent content in System Design on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 17:10:47 -0600</lastBuildDate><atom:link href="https://therealdoozy.github.io/learnings/system-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 17:10:47 -0600</lastBuildDate><atom:link href="https://therealdoozy.github.io/learning/system-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAP</title>
-      <link>https://therealdoozy.github.io/learnings/system-design/cap/</link>
+      <link>https://therealdoozy.github.io/learning/system-design/cap/</link>
       <pubDate>Sat, 08 Jan 2022 17:11:07 -0600</pubDate>
-      <guid>https://therealdoozy.github.io/learnings/system-design/cap/</guid>
+      <guid>https://therealdoozy.github.io/learning/system-design/cap/</guid>
       <description>CAP Theorm C - Consistency Data returned is the latest whenever it is requested.
 Ways to achieve consistenty Read after Write Consistency
  A new data is acknowledged to be written only when the data is written to all the nodes/subset of nodes in the system.  A - Availability Data is returned whenever it is requested for.

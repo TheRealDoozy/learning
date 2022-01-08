@@ -4,41 +4,41 @@
     "description": "",
     "tags": null,
     "title": "CAP",
-    "uri": "/learnings/system-design/cap/"
+    "uri": "/learning/system-design/cap/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "My New Hugo Site",
-    "uri": "/learnings/"
+    "uri": "/learning/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "System Design",
-    "uri": "/learnings/system-design/"
+    "uri": "/learning/system-design/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Basics",
-    "uri": "/learnings/basics/"
+    "uri": "/learning/basics/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Categories",
-    "uri": "/learnings/categories/"
+    "uri": "/learning/categories/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Tags",
-    "uri": "/learnings/tags/"
+    "uri": "/learning/tags/"
   }
 ]
