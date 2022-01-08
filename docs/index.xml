@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://therealdoozy.github.io/learnings/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 16:39:55 -0600</lastBuildDate><atom:link href="https://therealdoozy.github.io/learnings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAP</title>
+      <link>https://therealdoozy.github.io/learnings/system-design/cap/cap/</link>
+      <pubDate>Sat, 08 Jan 2022 16:39:55 -0600</pubDate>
+      
+      <guid>https://therealdoozy.github.io/learnings/system-design/cap/cap/</guid>
+      <description>CAP Theorm C - Consistency Data returned is the latest whenever it is requested.
+Ways to achieve consistenty Read after Write Consistency
+ A new data is acknowledged to be written only when the data is written to all the nodes/subset of nodes in the system.  A - Availability Data is returned whenever it is requested for.
+Ways to acheive availability
+ Have multiple replicas of nodes in the system.</description>
+    </item>
+    
+  </channel>
+</rss>

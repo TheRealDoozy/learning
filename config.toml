@@ -1,0 +1,5 @@
+baseURL = "https://therealdoozy.github.io/learnings/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
+publishDir="./docs"
