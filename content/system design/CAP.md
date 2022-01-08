@@ -1,7 +1,6 @@
 ---
 title: "CAP"
 date: 2022-01-08T17:11:07-06:00
-draft: true
 ---
 # CAP Theorm
 
